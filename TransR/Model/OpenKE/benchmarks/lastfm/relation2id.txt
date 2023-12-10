@@ -1,0 +1,5 @@
+4
+listens_to	0
+friends_with	1
+assigns_tag	2
+has_tag	3
